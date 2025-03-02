@@ -13,6 +13,23 @@
 - HackerRank Rest API
 - HackerRank SQL
 
+- <b> WGU Computer Science Relevant courses completed: </b>
+- Data Management Foundations
+- Data Management Applications
+- Network & Security Foundations
+- Scripting & Programming Foundations
+- Scripting & Programming Applications
+- Java Fundamentals
+- Ethics in Technology
+- Web Development Foundations
+- Introduction to Computer Science
+- Version Control
+- Practical Applications of Prompt
+- Business of IT Applications (ITIL)
+- Introduction to Systems Thinking and Applications
+
+
+
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="TommyAshworth | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
