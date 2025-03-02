@@ -5,7 +5,7 @@
 - <b> HTML,CSS,JavaScript,React.js </b>
 - https://tommyashworth.github.io/Cryptotrack/
 
-- <b> Certifications </b>
+- <h2> Certifications </h2>
 - ITIL® Foundation
 - Google Cybersecurity
 - Google IT Support Professional
@@ -13,7 +13,7 @@
 - HackerRank Rest API
 - HackerRank SQL
 
-- <b> WGU Computer Science Relevant courses completed: </b>
+- <h2> WGU Computer Science Relevant courses completed: </h2>
 - Data Management Foundations
 - Data Management Applications
 - Network & Security Foundations
