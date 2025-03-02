@@ -28,13 +28,6 @@
 - Business of IT Applications (ITIL)
 - Introduction to Systems Thinking and Applications
 
-
-
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="TommyAshworth | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/tommy-ashworth-a50928123/
-
 <!--
 **TommyAshworth/tommyashworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
