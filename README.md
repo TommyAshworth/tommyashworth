@@ -24,7 +24,7 @@
 ---
 
 ### **Student Roster System**
-**Technologies:**C++
+**Technologies:** C++
 [View Project](https://github.com/TommyAshworth/Student_Roster_Management)
 - Developed a C++ program to manage university student data for course rosters.
 - Designed and implemented two classes (student and roster) to handle student information such as ID, name, email, age, and course completion times.
