@@ -23,6 +23,17 @@
 
 ---
 
+### **Student Roster System**
+**Technologies:**C++
+[View Project](https://github.com/TommyAshworth/Student_Roster_Management)
+- Developed a C++ program to manage university student data for course rosters.
+- Designed and implemented two classes (student and roster) to handle student information such as ID, name, email, age, and course completion times.
+- Utilized dynamic memory management to create and manipulate student objects stored in an array (classRosterArray)
+- Implemented functionality to filter, validate, and display student data, including average course completion time and degree program filtering.
+- Ensured that the system handled data parsing and output to the console in a clean, efficient manner.
+
+---
+
 ## Certifications
 
 - Linux Essentials Linux Professional Institute
@@ -37,6 +48,17 @@
 
 ## Relevant Courses Completed (WGU Computer Science)
 
+- Introduction to Computer Science
+- Version Control
+- Introduction to Systems Thinking and Applications
+- Fundamentals of Information Security
+- Linux Foundations (LPI)
+- Back-End Programming
+- Software Engineering
+- Advanced Java
+- Software Design and Quality Assurance
+- Introduction to AI for Computer Scientists
+- Artificial Intelligence Optimization for Computer Scientists
 - Data Management Foundations  
 - Data Management Applications  
 - Network & Security Foundations  
@@ -50,7 +72,6 @@
 - Version Control  
 - Practical Applications of Prompt  
 - Business of IT Applications (ITIL)  
-- Introduction to Systems Thinking and Applications
 
 ---
 
