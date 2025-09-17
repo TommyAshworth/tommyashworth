@@ -1,5 +1,5 @@
 # Hi, I'm Tommy!  
-[Business Analyst](https://github.com/TommyAshworth), [Data Analyst](https://www.linkedin.com/in/tommy-ashworth-a50928123/)
+[Data Analyst](https://github.com/TommyAshworth)
 
 ## 👨‍💻 Software Development Projects:
 
@@ -43,6 +43,7 @@
 - Springboard Software Engineer Career Program  
 - HackerRank: REST API  
 - HackerRank: SQL
+- AWS Machine Learning - Specialty
 
 ---
 
