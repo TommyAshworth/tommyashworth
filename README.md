@@ -47,9 +47,13 @@
 
 ---
 
-## Relevant Courses Completed (WGU Computer Science)
+## Relevant Courses Completed (WGU B.S. Computer Science)
 
 - Introduction to Computer Science
+- Calculus I
+- Discrete Mathematics I
+- Discrete Mathematics II
+- Applied Probability and Statistics
 - Version Control
 - Introduction to Systems Thinking and Applications
 - Fundamentals of Information Security
