@@ -1,7 +1,16 @@
 # Hi, I'm Tommy!  
-[Data Analyst](https://github.com/TommyAshworth)
+[Business/Data Analytics](https://github.com/TommyAshworth)
 
-## 👨‍💻 Software Development Projects:
+## 👨‍💻 Projects:
+
+### **Hospital Staff Management System Machine Learning Model**
+**Technologies:** Python, pandas, numpy, scikit learn
+- Designed and implemented a machine learning model to analyze hospital workforce data, identifying skill gaps, predicting staffing shortages, and recommending training needs.
+- Conducted exploratory data analysis, feature engineering, and data preprocessing to ensure model accuracy and reliability.
+- Evaluated multiple algorithms (Random Forest Regressor, Linear Regression, SVR) and selected Random Forest for optimal balance of accuracy (R² ≈ 0.95), interpretability, and operational feasibility.
+- Generated actionable insights for management by summarizing staffing distributions, predicting high-risk roles, and identifying training priorities.
+- Created documentation and use cases to communicate system functionality and model results to non-technical stakeholders.
+- Applied ethical considerations including data anonymization, fairness evaluation, and bias mitigation to ensure responsible model deployment.
 
 ### **Cryptotrack**  
 **Technologies:** HTML, CSS, JavaScript, React.js  
