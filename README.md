@@ -1,5 +1,5 @@
 # Hi, I'm Tommy!  
-[Programmer](https://github.com/TommyAshworth), [IT Professional](https://www.linkedin.com/in/tommy-ashworth-a50928123/)
+[Business Analyst](https://github.com/TommyAshworth), [Data Analyst](https://www.linkedin.com/in/tommy-ashworth-a50928123/)
 
 ## 👨‍💻 Software Development Projects:
 
