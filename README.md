@@ -1,5 +1,5 @@
 # Hi, I'm Tommy!  
-[Business/Data Analytics](https://github.com/TommyAshworth)
+[Software Developer](https://github.com/TommyAshworth)
 
 ## 👨‍💻 Projects:
 
